@@ -1,0 +1,2 @@
+# Singleton
+Wzorzec projektowy Singleton
